@@ -20,7 +20,7 @@
 • ⭕ [YouTube](https://youtube.com/@oldhorizons?si=gEBUlfJlUZY3gdfJ "YouTube")\
 • 🔵 [Telegram](https://t.me/OldHorizons "Telegram")\
 • 💽 [Discord](https://discord.gg/p4KnZEVPgT "Discord")\
-• 🎡 [One Studio](https://github.com/One-Studio-SP "GitHub")
+• 🎡 [One Studio](https://github.com/One-Studio-SP "GitHub")\
 • 🎁 [Почта](mailto:oldhorizonsofficial@gmail.com "Gmail")
 
 <img width="1013" height="571" alt="1000701975" src="https://github.com/user-attachments/assets/9fd67abd-6656-4134-be91-35ca7926a392" />
