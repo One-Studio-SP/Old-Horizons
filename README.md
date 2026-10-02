@@ -96,5 +96,5 @@ P_COLOR vec4 FragmentKernel(P_UV vec2 texCoord) {
 *• Код фрагмент шейдера воды.*
 
 
-<img width="1701" height="958" alt="1000701985" src="https://github.com/user-attachments/assets/ba8487f1-86ce-4559-8cf3-a7093bdbb2b3" />
+<img width="1701" height="958" alt="1000701985" src="https://github.com/user-attachments/assets/ba8487f1-86ce-4559-8cf3-a7093bdbb2b3" alt="Модинг."  />
 <hr>
