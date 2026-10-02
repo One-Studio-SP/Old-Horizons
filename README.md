@@ -15,7 +15,7 @@
 
 <hr>
 
-# # ‧₊˚✧[Соц. Сети]✧˚₊‧
+# ‧₊˚✧[Соц. Сети]✧˚₊‧
 
 • ⭕ [YouTube](https://youtube.com/@oldhorizons?si=gEBUlfJlUZY3gdfJ "YouTube")\
 • 🔵 [Telegram](https://t.me/OldHorizons "Telegram")\
@@ -23,7 +23,7 @@
 • 🎡 [One Studio](https://github.com/One-Studio-SP "GitHub")\
 • 🎁 [Почта](mailto:oldhorizonsofficial@gmail.com "Gmail")
 
-<img width="1013" height="571" alt="1000701975" src="https://github.com/user-attachments/assets/9fd67abd-6656-4134-be91-35ca7926a392" />
+<img width="1013" height="571" alt="1000701975" src="https://github.com/user-attachments/assets/9fd67abd-6656-4134-be91-35ca7926a392" alt="Соц. Сети" />
 <hr>
 
 # ‧₊˚✧[Скачать]✧˚₊‧
@@ -34,5 +34,34 @@
 • ⚡ [Game Jolt](https://gamejolt.com/games/oldhorizons/992533 "Game Jolt")\
 • 🔵 [RuStore](https://www.rustore.ru/catalog/app/com.oldhorizons.app "RuStore")
 
-<img width="1671" height="942" alt="1000701978" src="https://github.com/user-attachments/assets/8646ba3a-30d3-47e2-8f3d-8de5cfb36693" />
+<img width="1671" height="942" alt="1000701978" src="https://github.com/user-attachments/assets/8646ba3a-30d3-47e2-8f3d-8de5cfb36693" alt="Скачать" />
+<hr>
+
+# ‧₊˚✧[Стафф]✧˚₊‧
+• 👑 [Прøбе́л - Разраб/Хост](https://github.com/GapAPK "GitHub")\
+• 🎨 Secret Melon - Художник\
+• 🔋 Бета-Тестер - Vojijpg\
+• 📰 [Viachek - Издатель](https://github.com/Vja0css "GitHub")\
+• 🛡️ Coffee - Модератор
+
+<img width="1700" height="1080" alt="1000701979" src="https://github.com/user-attachments/assets/18b12c00-3056-4c03-a79a-8859cb8995cd" alt="Стафф" />
+<hr>
+
+# ‧₊˚✧[Модинг]✧˚₊‧
+
+<img width="108" height="108" alt="1000701980" src="https://github.com/user-attachments/assets/c2f51fdf-300a-4f17-ba3d-9acc0fcfb78c" alt="Привью мода." />
+
+*• Текстура привью спавна.*
+
+```lua
+system.vibrate(9)
+```
+*• Пример кода для вибраций в режиме Lua.*
+
+```html
+data:text/html,<body bgcolor=red><hr2>М-да</hr2></body>
+```
+*• Пример кода для сайта в режиме HTML.*
+
+<img width="1701" height="958" alt="1000701985" src="https://github.com/user-attachments/assets/ba8487f1-86ce-4559-8cf3-a7093bdbb2b3" />
 <hr>
